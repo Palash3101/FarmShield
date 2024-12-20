@@ -1,0 +1,20 @@
+.disease-diagnosis {
+    margin-top: 20px;
+  }
+  
+  .disease-diagnosis input {
+    margin-right: 10px;
+  }
+  
+  .disease-diagnosis button {
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .disease-diagnosis button:hover {
+    background-color: darkgreen;
+  }
+  
