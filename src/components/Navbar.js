@@ -10,8 +10,7 @@ function Navbar() {
         <li><Link to="/disease"><b>Disease Diagnosis</b></Link></li>
         <li><Link to="/reports"><b>Reports</b></Link></li>
         <li><Link to="/profile"><b>Profile</b></Link></li>
-        <li><Link to="/login"><b>Login</b></Link></li> {/* Login link */}
-        <li><Link to="/signup"><b>SignUp</b></Link></li> {/* SignUp link */}
+        <li><Link to="/login"><b>Login</b></Link></li>
       </ul>
     </nav>
   );
